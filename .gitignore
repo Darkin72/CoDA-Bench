@@ -87,7 +87,7 @@ temp/
 .cache/
 
 data/*
-!data\coda_bench_hard.json
-!data\coda_bench.json
-!data\coda_bench_lite.json
-!data\README.md
+!data/coda_bench_hard.json
+!data/coda_bench.json
+!data/coda_bench_lite.json
+!data/README.md
